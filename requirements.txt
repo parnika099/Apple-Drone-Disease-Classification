@@ -1,0 +1,16 @@
+opencv-python>=4.5.0
+numpy>=1.19.0
+torch>=1.7.0
+ultralytics>=0.0.41
+streamlit>=1.24.0
+pandas>=1.3.0
+matplotlib>=3.5.0
+Pillow>=8.0.0
+google-cloud-storage>=2.0.0
+tensorflow>=2.10.0
+google-generativeai>=0.3.0
+python-dotenv>=1.0.0
+typing-extensions>=4.5.0
+datetime>=5.1
+altair>=5.0.0
+pymongo>=4.0.0
